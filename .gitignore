@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Python (if you add later)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.Python
+
+# Node (if you add later)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Build / caches
+dist/
+build/
+.cache/
+*.log
